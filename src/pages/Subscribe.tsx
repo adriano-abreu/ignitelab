@@ -21,7 +21,7 @@ export function Subscribe() {
         email,
       },
     });
-    navigate('/event/abertura');
+    navigate('/event');
   }
 
   return (
